@@ -1,0 +1,24 @@
+
+@mixin nav {
+@extend .bg-white;
+@extend .border-gray-200;
+@extend .dark, :bg-gray-900;
+}
+
+.bg-white {
+background-color: #fff;
+}
+
+.border-gray-200 {
+ --tw-border-opacity: 1;
+    border-color: rgb(229 231 235 / var(--tw-border-opacity));
+}
+
+.dark, :bg-gray-900 { 
+   --tw-bg-opacity: 1;
+        background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+    }
+
+.nav__bar {
+@include nav;
+}    

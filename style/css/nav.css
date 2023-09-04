@@ -1,0 +1,13 @@
+.bg-white, .nav__bar {
+  background-color: #fff;
+}
+
+.border-gray-200, .nav__bar {
+  --tw-border-opacity: 1;
+  border-color: rgb(229 231 235/var(--tw-border-opacity));
+}
+
+.dark, .nav__bar, :bg-gray-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(17 24 39/var(--tw-bg-opacity));
+}/*# sourceMappingURL=nav.css.map */
