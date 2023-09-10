@@ -6,3 +6,4 @@ infolettres:https://tailwindui.com/components/marketing/sections/newsletter-sect
 Footer:
 Gallery:
 carte:https://flowbite.com/docs/components/card/
+video:https://flowbite.com/docs/components/video/
