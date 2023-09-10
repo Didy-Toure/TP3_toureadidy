@@ -1,0 +1,33 @@
+{
+    "name":"Elo Cosmetics",
+    "short_name":"Elo",
+    "description":"Découvrez notre nouvelle selection de maquillage",
+    "start_url": "/index.html",
+   "id": "/index.html",
+    
+
+    
+    "icons": [{
+            "src":"images/favicon_io/192x192.png",
+            "sizes":"192x192",
+            "type": "image/png"
+
+    },{
+        "src":"images/favicon_io/144x144.png",
+            "sizes":"144x144",
+            "type": "image/png"
+    },{
+        "src":"images/favicon_io/512x512.png",
+            "sizes":"512x512",
+            "type": "image/png"
+            
+
+        }],
+
+"display":"standalone",
+"background_color":"#DAC0A3",
+"theme_color": "#EADBC8"
+
+
+
+}
