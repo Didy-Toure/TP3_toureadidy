@@ -1,0 +1,41 @@
+@import 'colors'; 
+
+.hero__section {
+    background-color: $cream2;
+    padding-top: 1.25rem ;
+    padding-bottom: 1.25rem ;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+
+    
+
+
+
+}
+
+.hero__container {
+    display: grid;
+    gap: 1.24rem;
+}
+
+.container__hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero__text1 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  color: $bleu;
+}
+
+.hero__text2 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  color: $white;
+
+}

@@ -1,8 +1,12 @@
+@use '__nav';
+@use '__hero';
+@use '__infolettres';
+@use '__card';
+
+
 /**  GENERAL **/
 
-* *{
-
-
+*{
 padding: 0;
   margin: 0;
   box-sizing: border-box;

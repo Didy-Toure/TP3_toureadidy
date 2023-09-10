@@ -1,0 +1,45 @@
+@import 'colors'; 
+
+.info__box {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background-color: $cream2;
+}
+
+.info__paragraph {
+
+    margin-top: 1rem;
+    font-size: 1.125rem/* 18px */;
+    line-height: 1.75rem/* 28px */;
+    line-height: 2rem;
+    color:black;
+
+}
+
+.info__h2 {
+    font-size: 1.875rem/* 30px */;
+    line-height: 2.25rem/* 36px */;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    color: $white;
+
+}
+
+.info__button {
+flex: none;
+border-radius: 0.375rem;
+
+padding-left: 0.875rem/* 14px */;
+padding-right: 0.875rem/* 14px */;
+color: $white;
+font-size: 0.875rem;
+line-height: 1.25rem;
+font-weight: 600;
+padding-top: 0.625rem/* 10px */;
+padding-bottom: 0.625rem/* 10px */;
+
+
+
+
+}
