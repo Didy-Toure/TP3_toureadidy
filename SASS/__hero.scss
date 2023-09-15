@@ -29,7 +29,7 @@
   font-size: 2.25rem;
   line-height: 2.5rem;
   font-weight: 700;
-  color: $bleu;
+  color: $red;
 }
 
 .hero__text2 {
@@ -38,4 +38,12 @@
   font-weight: 700;
   color: $white;
 
+}
+.custom__font {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.font__montserrat{
+    font-family: 'Montserrat', sans-serif;
+   
 }

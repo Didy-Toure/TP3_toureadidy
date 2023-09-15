@@ -2,6 +2,17 @@
 @use '__hero';
 @use '__infolettres';
 @use '__card';
+@use '__fonts';
+@use '_colors';
+@use '__produits';
+
+//Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Montserrat:ital,wght@0,100;0,200;0,400;1,200&family=Overpass:wght@100;400;700&family=Roboto:wght@100;300;400;500&display=swap');
+
+//Font Variables
+$cursive-font: 'Cedarville Cursive', cursive;
+$roboto-font: 'Roboto', sans-serif;
+
 
 
 /**  GENERAL **/
@@ -12,6 +23,13 @@ padding: 0;
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
-  font-family: 'Roboto', sans-serif;
+  
 }
+
+
+
+
+
+
+
 
