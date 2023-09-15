@@ -1,11 +1,10 @@
 # TP3_toureadidy
-Voici tous les components utilisés : 
 
-nav:
+Voici tous les composants utilisés dans ce projet :
 
-infolettres:https://tailwindui.com/components/marketing/sections/newsletter-sections
-Footer:
-Gallery:
-carte:https://flowbite.com/docs/components/card/
-video:https://flowbite.com/docs/components/video/
-
+- [**nav**](https://flowbite.com/docs/components/navbar/): Composant de navigation.
+- [**infolettres**](https://tailwindui.com/components/marketing/sections/newsletter-sections): Composant de section d'infolettres.
+- [**Footer**](https://flowbite.com/docs/components/footer/): Composant de pied de page.
+- [**Gallery**](https://flowbite.com/docs/components/gallery/): Composant de galerie.
+- [**carte**](https://flowbite.com/docs/components/card/): Composant de carte.
+- [**video**](https://flowbite.com/docs/components/video/): Composant vidéo.
