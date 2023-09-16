@@ -1,4 +1,4 @@
-const CACHE_NAME = 'static-cache-v1';
+const CACHE_NAME = 'static-cache-v3';
 
 const FILES_TO_CACHE = [
     '/',
@@ -6,7 +6,7 @@ const FILES_TO_CACHE = [
     '/css/styles.css',
     '/gallerie.html',
     '/contact.html',
-    // Ajoutez d'autres fichiers statiques à mettre en cache ici
+    
 ];
 
 self.addEventListener('install', (event) => {
