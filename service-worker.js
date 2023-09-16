@@ -1,11 +1,11 @@
-const CACHE_NAME = 'static-cache-v3';
+const CACHE_NAME = 'static-cache-v4';
 
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
-    '/css/styles.css',
+    '/Nos produits.html',
     '/gallerie.html',
-    '/contact.html',
+    '/Contact.html',
     
 ];
 
